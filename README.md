@@ -28,3 +28,8 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+## Documentation & Troubleshooting
+
+- For Root Cause Analysis (RCA) on Docker deployment and EC2 setup, see [RCA Report](docs/RCA.md).
+
